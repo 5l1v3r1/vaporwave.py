@@ -13,7 +13,7 @@ Requirements
 
 Download/Installation
 ====
-* git clone https://github.com/maldevel/vaporwave
+* git clone https://github.com/r0otshell/vaporwave.py
 * pip3 install -r requirements.txt --user
 
 if pip3 is missing:
@@ -62,7 +62,7 @@ usage: vaporwave.py [-h] [-m] [-t TARGET] [-T file] [-u User-Agent]
 vaporwave 2.0.4
 
 --[ Retrieve IP Geolocation information from ip-api.com
---[ Copyright (c) 2015-2016 maldevel (@maldevel)
+/\\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 --[ ip-api.com service will automatically ban any IP addresses doing over 150 requests per minute.
 
 optional arguments:
